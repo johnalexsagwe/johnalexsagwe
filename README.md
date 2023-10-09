@@ -1,7 +1,13 @@
 [![MasterHead](https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
 <h1 align="center">Hi 👋, I'm J.A Sagwe</h1>
 <h3 align="center">I'm on a journey to transition into the tech industry, with a background in supply chain management and Forex/crypto markets.</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
+<div align="center">
+  <a href="https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=d86a0993b8d04ac6">
+    <img alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
+  </a>
+  <p align="center">🎧 To listen to my coding playlist, click the image! 🎵</p>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnalexsagwe&label=Profile%20views&color=0e75b6&style=flat" alt="johnalexsagwe" /> </p>
 
