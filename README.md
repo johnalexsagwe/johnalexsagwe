@@ -3,7 +3,7 @@
 <h3 align="center">I'm on a journey to transition into the tech industry, with a background in supply chain management and Forex/crypto markets.</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
-[![Listen to my favorite coding playlist](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFopnzqEulP1kegv8dzWHtAZyAmRtRQpsf7qQEHsbq&s)](https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=365e8d4f7bc346cb)
+[![Listen to my favorite coding playlist](https://developer.spotify.com/images/guidelines/design/icon1@2x.png)](https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=365e8d4f7bc346cb)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnalexsagwe&label=Profile%20views&color=0e75b6&style=flat" alt="johnalexsagwe" /> </p>
 
