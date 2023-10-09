@@ -36,6 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnalexsagwe&show_icons=true&locale=en" alt="johnalexsagwe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnalexsagwe&" alt="johnalexsagwe" /></p>
-
-My current coding playlist
-[![Listen to my favorite coding playlist](https://i.pinimg.com/736x/a8/13/5d/a8135d121d45e460baf292db0c6cc82b.jpg)](https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=365e8d4f7bc346cb)
