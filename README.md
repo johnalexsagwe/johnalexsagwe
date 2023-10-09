@@ -3,8 +3,6 @@
 <h3 align="center">I'm on a journey to transition into the tech industry, with a background in supply chain management and Forex/crypto markets.</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
-[![Listen to my favorite coding playlist](https://developer.spotify.com/images/guidelines/design/icon1@2x.png)](https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=365e8d4f7bc346cb)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnalexsagwe&label=Profile%20views&color=0e75b6&style=flat" alt="johnalexsagwe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnalexsagwe" alt="johnalexsagwe" /></a> </p>
@@ -32,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnalexsagwe&show_icons=true&locale=en" alt="johnalexsagwe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnalexsagwe&" alt="johnalexsagwe" /></p>
+
+My current coding playlist
+[![Listen to my favorite coding playlist](https://i.pinimg.com/736x/a8/13/5d/a8135d121d45e460baf292db0c6cc82b.jpg)](https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=365e8d4f7bc346cb)
