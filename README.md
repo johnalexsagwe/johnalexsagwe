@@ -3,7 +3,7 @@
 <p align="center">Transitioning into the tech industry with a background in supply chain management and Forex/crypto markets.</p>
 
 <div align="center">
-  <a href="https://open.spotify.com/playlist/1abfCh7hMHzb2xTLZPZXtT?si=d86a0993b8d04ac6">
+  <a href="https://open.spotify.com/playlist/0sMr5s2YU5vpHx3OLMsspz?si=5bc82eb721864ac3">
     <img alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
   </a>
   <p align="center">🎧 To listen to my coding playlist, click the image! 🎵</p>
